@@ -1,0 +1,15 @@
+[system]
+logFile = "/Users/liyuntang/go/src/grafana_show/logs/monit.log"
+# 监控间隔时间，单位s
+monitIntervalTime = "10s"
+# 监控项--借鉴的mysql status参数名
+monitElement=["Threads_connected", "Threads_running", "Com_select", "Com_insert", "Com_update", "Com_delete", "Com_rollback", "Com_commit", "Queries","tps", "qps", "Uptime", "Slave_IO_Running", "Slave_SQL_Running", "Seconds_Behind_Master", "binlogDelay", "postionDelay", "slowlog"]
+
+[grafanadb]
+user = ""
+passwd = ""
+address = ""
+port = 
+charset = "utf8mb4"
+database = "db_platform"
+table = "grafana_show"

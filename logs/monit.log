@@ -1,0 +1,435 @@
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "OFF": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "not started": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "not started": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "ON": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "0.000000": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "1800.000": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "2019-07-16 16:25:11": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "ON": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "NONE": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "mysql-bin.000324": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "OFF": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "not started": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "not started": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "ON": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "0.000000": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "1800.000": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "ON": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "NONE": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "OFF": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "not started": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "not started": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "18446744073708266394": value out of range
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "ON": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "0.000000": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "150.000": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "2019-07-16 14:52:24": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "ON": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "NONE": invalid syntax
+[grafana_show] 2019/09/28 20:01:10 pStruct.go:71: strconv value is bad, err6 is strconv.Atoi: parsing "": invalid syntax
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Aborted_connects
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_select
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_insert
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Aborted_connects
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_select
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_insert
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Aborted_connects
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_select
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_insert
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 20:19:07 monit.go:25: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:12:49 monit.go:44: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:13:29 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:13:57 monit.go:38: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_3306_b-mysql-core08 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_sneaker_offline_23306_b-mysql-core07 monit element is error, elemet is qps
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_update
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_delete
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_rollback
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Com_commit
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is Queries
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is tps
+[grafana_show] 2019/09/28 21:16:55 monit.go:37: nice_usertag_offline_3306_b-mysql-core27 monit element is error, elemet is qps
+[grafana_show] 2019/09/29 15:36:29 grafana_show.go:53: monit host time is 4.372986348s
+[grafana_show] 2019/09/29 15:36:30 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:36:30 grafana_show.go:57: inser db time is 896.282172ms
+[grafana_show] 2019/09/29 15:36:43 grafana_show.go:53: monit host time is 3.523591178s
+[grafana_show] 2019/09/29 15:36:45 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:36:45 grafana_show.go:57: inser db time is 1.040650238s
+[grafana_show] 2019/09/29 15:36:58 grafana_show.go:53: monit host time is 3.563073762s
+[grafana_show] 2019/09/29 15:36:59 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:36:59 grafana_show.go:57: inser db time is 847.172036ms
+[grafana_show] 2019/09/29 15:37:13 grafana_show.go:53: monit host time is 3.234809686s
+[grafana_show] 2019/09/29 15:37:14 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:37:14 grafana_show.go:57: inser db time is 1.054760697s
+[grafana_show] 2019/09/29 15:37:26 grafana_show.go:53: monit host time is 2.358502077s
+[grafana_show] 2019/09/29 15:37:27 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:37:27 grafana_show.go:57: inser db time is 896.771278ms
+[grafana_show] 2019/09/29 15:37:40 grafana_show.go:53: monit host time is 2.990143911s
+[grafana_show] 2019/09/29 15:37:41 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:37:41 grafana_show.go:57: inser db time is 648.120101ms
+[grafana_show] 2019/09/29 15:37:54 grafana_show.go:53: monit host time is 2.628706044s
+[grafana_show] 2019/09/29 15:37:55 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:37:55 grafana_show.go:57: inser db time is 949.489066ms
+[grafana_show] 2019/09/29 15:38:07 grafana_show.go:53: monit host time is 2.498672811s
+[grafana_show] 2019/09/29 15:38:08 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:38:08 grafana_show.go:57: inser db time is 796.447447ms
+[grafana_show] 2019/09/29 15:38:21 grafana_show.go:53: monit host time is 2.358986977s
+[grafana_show] 2019/09/29 15:38:21 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:38:21 grafana_show.go:57: inser db time is 268.187813ms
+[grafana_show] 2019/09/29 15:38:33 grafana_show.go:53: monit host time is 2.267425012s
+[grafana_show] 2019/09/29 15:38:34 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:38:34 grafana_show.go:57: inser db time is 980.697255ms
+[grafana_show] 2019/09/29 15:38:47 grafana_show.go:53: monit host time is 2.111966362s
+[grafana_show] 2019/09/29 15:38:47 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:38:47 grafana_show.go:57: inser db time is 317.76394ms
+[grafana_show] 2019/09/29 15:38:59 grafana_show.go:53: monit host time is 2.048907829s
+[grafana_show] 2019/09/29 15:39:00 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:39:00 grafana_show.go:57: inser db time is 958.110155ms
+[grafana_show] 2019/09/29 15:39:13 grafana_show.go:53: monit host time is 2.105601035s
+[grafana_show] 2019/09/29 15:39:13 insertTab.go:40: 写入了 1540 行数据
+[grafana_show] 2019/09/29 15:39:13 grafana_show.go:57: inser db time is 281.938404ms
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_3323_b-mysql-core52 monit element is error, elemet is Slave_IO_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_3323_b-mysql-core52 monit element is error, elemet is Slave_SQL_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_3323_b-mysql-core52 monit element is error, elemet is Seconds_Behind_Master
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_3323_b-mysql-core52 monit element is error, elemet is binlogDelay
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_3323_b-mysql-core52 monit element is error, elemet is postionDelay
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_offline_3323_b-mysql-core07 monit element is error, elemet is Slave_IO_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_offline_3323_b-mysql-core07 monit element is error, elemet is Slave_SQL_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_offline_3323_b-mysql-core07 monit element is error, elemet is Seconds_Behind_Master
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_offline_3323_b-mysql-core07 monit element is error, elemet is binlogDelay
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_offline_3323_b-mysql-core07 monit element is error, elemet is postionDelay
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_backup_3323_b-mysql-core72 monit element is error, elemet is Slave_IO_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_backup_3323_b-mysql-core72 monit element is error, elemet is Slave_SQL_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_backup_3323_b-mysql-core72 monit element is error, elemet is Seconds_Behind_Master
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_backup_3323_b-mysql-core72 monit element is error, elemet is binlogDelay
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_master_backup_3323_b-mysql-core72 monit element is error, elemet is postionDelay
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core76 monit element is error, elemet is Slave_IO_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core76 monit element is error, elemet is Slave_SQL_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core76 monit element is error, elemet is Seconds_Behind_Master
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core76 monit element is error, elemet is binlogDelay
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core76 monit element is error, elemet is postionDelay
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core62 monit element is error, elemet is Slave_IO_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core62 monit element is error, elemet is Slave_SQL_Running
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core62 monit element is error, elemet is Seconds_Behind_Master
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core62 monit element is error, elemet is binlogDelay
+[grafana_show] 2019/09/29 16:41:50 monit.go:73: nice_newdefault_slave_3323_b-mysql-core62 monit element is error, elemet is postionDelay
+[grafana_show] 2019/09/29 16:41:50 grafana_show.go:53: monit host time is 1.476085553s
+[grafana_show] 2019/09/29 16:41:51 insertTab.go:40: 写入了 60 行数据
+[grafana_show] 2019/09/29 16:41:51 grafana_show.go:57: inser db time is 889.883853ms
+[grafana_show] 2019/09/29 16:43:49 grafana_show.go:53: monit host time is 1.482072426s
+[grafana_show] 2019/09/29 16:43:50 insertTab.go:40: 写入了 60 行数据
+[grafana_show] 2019/09/29 16:43:50 grafana_show.go:57: inser db time is 728.105561ms
+[grafana_show] 2019/09/29 16:44:02 grafana_show.go:53: monit host time is 1.53941143s
+[grafana_show] 2019/09/29 16:44:03 insertTab.go:40: 写入了 60 行数据
+[grafana_show] 2019/09/29 16:44:03 grafana_show.go:57: inser db time is 557.159889ms
+[grafana_show] 2019/09/29 16:44:14 grafana_show.go:53: monit host time is 1.381751798s
+[grafana_show] 2019/09/29 16:44:15 insertTab.go:40: 写入了 60 行数据
+[grafana_show] 2019/09/29 16:44:15 grafana_show.go:57: inser db time is 819.264147ms
+[grafana_show] 2019/09/29 16:44:27 grafana_show.go:53: monit host time is 1.665524378s
+[grafana_show] 2019/09/29 16:44:28 insertTab.go:40: 写入了 60 行数据
+[grafana_show] 2019/09/29 16:44:28 grafana_show.go:57: inser db time is 438.699385ms
+[grafana_show] 2019/09/29 16:44:40 grafana_show.go:53: monit host time is 1.787558214s
+[grafana_show] 2019/09/29 16:44:41 insertTab.go:40: 写入了 60 行数据
+[grafana_show] 2019/09/29 16:44:41 grafana_show.go:57: inser db time is 587.399872ms
+[grafana_show] 2019/09/29 16:44:53 grafana_show.go:53: monit host time is 2.504640251s
+[grafana_show] 2019/09/29 16:44:54 insertTab.go:40: 写入了 60 行数据
+[grafana_show] 2019/09/29 16:44:54 grafana_show.go:57: inser db time is 622.265334ms
+[grafana_show] 2019/09/29 16:45:07 grafana_show.go:53: monit host time is 1.697386114s
+[grafana_show] 2019/09/29 16:45:07 insertTab.go:40: 写入了 60 行数据
+[grafana_show] 2019/09/29 16:45:07 grafana_show.go:57: inser db time is 536.350171ms
+[grafana_show] 2019/09/29 17:08:53 grafana_show.go:54: monit host time is 1.49478589s
+[grafana_show] 2019/09/29 17:08:54 insertTab.go:40: 写入了 76 行数据
+[grafana_show] 2019/09/29 17:08:54 grafana_show.go:58: inser db time is 145.451293ms
+[grafana_show] 2019/09/29 17:24:03 grafana_show.go:54: monit host time is 1.172747848s
+[grafana_show] 2019/09/29 17:24:03 insertTab.go:40: 写入了 80 行数据
+[grafana_show] 2019/09/29 17:24:03 grafana_show.go:58: inser db time is 159.43499ms
+[grafana_show] 2019/09/29 17:24:15 grafana_show.go:54: monit host time is 1.168013737s
+[grafana_show] 2019/09/29 17:24:15 insertTab.go:40: 写入了 80 行数据
+[grafana_show] 2019/09/29 17:24:15 grafana_show.go:58: inser db time is 392.98965ms
+[grafana_show] 2019/09/29 17:24:54 grafana_show.go:54: monit host time is 1.175741145s
+[grafana_show] 2019/09/29 17:24:54 insertTab.go:40: 写入了 80 行数据
+[grafana_show] 2019/09/29 17:24:54 grafana_show.go:58: inser db time is 431.049664ms
+[grafana_show] 2019/09/29 17:25:06 grafana_show.go:54: monit host time is 1.308797206s
+[grafana_show] 2019/09/29 17:25:06 insertTab.go:40: 写入了 80 行数据
+[grafana_show] 2019/09/29 17:25:06 grafana_show.go:58: inser db time is 230.118692ms
+[grafana_show] 2019/09/29 17:26:16 grafana_show.go:54: monit host time is 3.818672505s
+[grafana_show] 2019/09/29 17:26:18 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:26:18 grafana_show.go:58: inser db time is 2.166254306s
+[grafana_show] 2019/09/29 17:26:31 grafana_show.go:54: monit host time is 3.318790203s
+[grafana_show] 2019/09/29 17:26:33 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:26:33 grafana_show.go:58: inser db time is 1.927044474s
+[grafana_show] 2019/09/29 17:26:49 grafana_show.go:54: monit host time is 5.616499252s
+[grafana_show] 2019/09/29 17:26:51 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:26:51 grafana_show.go:58: inser db time is 2.263486695s
+[grafana_show] 2019/09/29 17:27:05 grafana_show.go:54: monit host time is 3.510091939s
+[grafana_show] 2019/09/29 17:27:07 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:27:07 grafana_show.go:58: inser db time is 1.780327081s
+[grafana_show] 2019/09/29 17:27:22 grafana_show.go:54: monit host time is 4.900075098s
+[grafana_show] 2019/09/29 17:27:24 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:27:24 grafana_show.go:58: inser db time is 1.649997508s
+[grafana_show] 2019/09/29 17:28:07 grafana_show.go:54: monit host time is 5.137498137s
+[grafana_show] 2019/09/29 17:28:08 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:28:08 grafana_show.go:58: inser db time is 1.228294868s
+[grafana_show] 2019/09/29 17:28:27 grafana_show.go:54: monit host time is 8.754142823s
+[grafana_show] 2019/09/29 17:28:29 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:28:29 grafana_show.go:58: inser db time is 1.675667755s
+[grafana_show] 2019/09/29 17:32:13 grafana_show.go:54: get monit host time is 4.544097252s
+[grafana_show] 2019/09/29 17:32:14 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:32:14 grafana_show.go:58: inser db time is 1.657118921s
+[grafana_show] 2019/09/29 17:32:29 grafana_show.go:54: get monit host time is 4.147455388s
+[grafana_show] 2019/09/29 17:32:30 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:32:30 grafana_show.go:58: inser db time is 1.721728872s
+[grafana_show] 2019/09/29 17:33:06 grafana_show.go:55: get monit host time is 5.031412354s
+[grafana_show] 2019/09/29 17:33:09 insertTab.go:40: 写入了 2240 行数据
+[grafana_show] 2019/09/29 17:33:09 grafana_show.go:59: inser db time is 2.388994771s
+[grafana_show] 2019/10/12 16:36:03 grafana_show.go:54: get monit host time is 1.122473721s
+[grafana_show] 2019/10/12 16:36:04 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 16:36:04 grafana_show.go:58: inser db time is 804.119062ms
+[grafana_show] 2019/10/12 16:37:07 pStruct.go:72: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 16:37:07 grafana_show.go:54: get monit host time is 1.030201537s
+[grafana_show] 2019/10/12 16:37:07 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 16:37:07 grafana_show.go:58: inser db time is 68.252484ms
+[grafana_show] 2019/10/12 16:54:41 pStruct.go:80: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 16:54:41 grafana_show.go:54: get monit host time is 1.01756567s
+[grafana_show] 2019/10/12 16:54:41 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 16:54:41 grafana_show.go:58: inser db time is 632.808762ms
+[grafana_show] 2019/10/12 17:02:18 pStruct.go:80: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:02:18 grafana_show.go:54: get monit host time is 1.018828014s
+[grafana_show] 2019/10/12 17:02:18 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:02:18 grafana_show.go:58: inser db time is 177.62361ms
+[grafana_show] 2019/10/12 17:04:16 pStruct.go:81: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:04:16 grafana_show.go:54: get monit host time is 1.023394386s
+[grafana_show] 2019/10/12 17:04:17 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:04:17 grafana_show.go:58: inser db time is 369.025014ms
+[grafana_show] 2019/10/12 17:09:24 pStruct.go:82: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:09:24 grafana_show.go:54: get monit host time is 1.016624528s
+[grafana_show] 2019/10/12 17:09:24 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:09:24 grafana_show.go:58: inser db time is 95.589653ms
+[grafana_show] 2019/10/12 17:09:28 pStruct.go:82: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:09:28 grafana_show.go:54: get monit host time is 1.019371266s
+[grafana_show] 2019/10/12 17:09:28 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:09:28 grafana_show.go:58: inser db time is 132.137028ms
+[grafana_show] 2019/10/12 17:09:39 pStruct.go:82: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:09:39 grafana_show.go:54: get monit host time is 1.017778295s
+[grafana_show] 2019/10/12 17:09:39 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:09:39 grafana_show.go:58: inser db time is 39.268781ms
+[grafana_show] 2019/10/12 17:09:57 pStruct.go:82: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:09:57 grafana_show.go:55: get monit host time is 1.020705767s
+[grafana_show] 2019/10/12 17:09:58 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:09:58 grafana_show.go:59: inser db time is 44.84648ms
+[grafana_show] 2019/10/12 17:11:09 pStruct.go:82: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:11:09 grafana_show.go:55: get monit host time is 1.015272895s
+[grafana_show] 2019/10/12 17:11:10 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:11:10 grafana_show.go:59: inser db time is 407.55205ms
+[grafana_show] 2019/10/12 17:15:02 pStruct.go:81: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:15:02 grafana_show.go:55: get monit host time is 1.016973935s
+[grafana_show] 2019/10/12 17:15:03 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:15:03 grafana_show.go:59: inser db time is 178.936772ms
+[grafana_show] 2019/10/12 17:17:43 pStruct.go:81: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:17:43 grafana_show.go:55: get monit host time is 1.028433781s
+[grafana_show] 2019/10/12 17:17:43 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:17:43 grafana_show.go:59: inser db time is 61.319609ms
+[grafana_show] 2019/10/12 17:17:47 pStruct.go:81: get replication status of nice_account_mtp_3323_b-mysql-core13 is bad
+[grafana_show] 2019/10/12 17:17:47 grafana_show.go:55: get monit host time is 1.031709815s
+[grafana_show] 2019/10/12 17:17:47 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:17:47 grafana_show.go:59: inser db time is 61.08587ms
+[grafana_show] 2019/10/12 17:31:10 grafana_show.go:55: get monit host time is 11.420918ms
+[grafana_show] 2019/10/12 17:31:11 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:31:11 grafana_show.go:59: inser db time is 142.981862ms
+[grafana_show] 2019/10/12 17:32:17 grafana_show.go:55: get monit host time is 1.073706437s
+[grafana_show] 2019/10/12 17:32:18 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:32:18 grafana_show.go:59: inser db time is 546.443117ms
+[grafana_show] 2019/10/12 17:32:38 grafana_show.go:55: get monit host time is 1.143430711s
+[grafana_show] 2019/10/12 17:32:38 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:32:38 grafana_show.go:59: inser db time is 65.266793ms
+[grafana_show] 2019/10/12 17:33:08 grafana_show.go:55: get monit host time is 4.732137ms
+[grafana_show] 2019/10/12 17:33:08 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:33:08 grafana_show.go:59: inser db time is 46.220866ms
+[grafana_show] 2019/10/12 17:34:04 grafana_show.go:54: get monit host time is 5.494914ms
+[grafana_show] 2019/10/12 17:34:04 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:34:04 grafana_show.go:58: inser db time is 36.748087ms
+[grafana_show] 2019/10/12 17:34:15 grafana_show.go:54: get monit host time is 3.85298ms
+[grafana_show] 2019/10/12 17:34:15 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:34:15 grafana_show.go:58: inser db time is 72.09717ms
+[grafana_show] 2019/10/12 17:34:25 grafana_show.go:54: get monit host time is 5.488009ms
+[grafana_show] 2019/10/12 17:34:25 insertTab.go:40: 写入了 13 行数据
+[grafana_show] 2019/10/12 17:34:25 grafana_show.go:58: inser db time is 346.45398ms
+[grafana_show] 2019/10/12 17:34:37 grafana_show.go:54: get monit host time is 1.260287307s
+[grafana_show] 2019/10/12 17:34:37 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:34:37 grafana_show.go:58: inser db time is 67.293201ms
+[grafana_show] 2019/10/12 17:34:48 grafana_show.go:54: get monit host time is 1.393262385s
+[grafana_show] 2019/10/12 17:34:49 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:34:49 grafana_show.go:58: inser db time is 822.133029ms
+[grafana_show] 2019/10/12 17:35:00 grafana_show.go:54: get monit host time is 1.131580802s
+[grafana_show] 2019/10/12 17:35:00 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:35:00 grafana_show.go:58: inser db time is 151.931948ms
+[grafana_show] 2019/10/12 17:35:12 grafana_show.go:54: get monit host time is 1.438661813s
+[grafana_show] 2019/10/12 17:35:12 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:35:12 grafana_show.go:58: inser db time is 90.131935ms
+[grafana_show] 2019/10/12 17:35:24 grafana_show.go:54: get monit host time is 2.361667175s
+[grafana_show] 2019/10/12 17:35:25 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:35:25 grafana_show.go:58: inser db time is 247.956887ms
+[grafana_show] 2019/10/12 17:35:37 grafana_show.go:54: get monit host time is 2.102841188s
+[grafana_show] 2019/10/12 17:35:37 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:35:37 grafana_show.go:58: inser db time is 456.357727ms
+[grafana_show] 2019/10/12 17:35:49 grafana_show.go:54: get monit host time is 1.195172409s
+[grafana_show] 2019/10/12 17:35:49 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:35:49 grafana_show.go:58: inser db time is 414.744475ms
+[grafana_show] 2019/10/12 17:36:00 grafana_show.go:54: get monit host time is 1.067905635s
+[grafana_show] 2019/10/12 17:36:01 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:36:01 grafana_show.go:58: inser db time is 358.294793ms
+[grafana_show] 2019/10/12 17:36:12 grafana_show.go:54: get monit host time is 1.068013738s
+[grafana_show] 2019/10/12 17:36:12 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:36:12 grafana_show.go:58: inser db time is 153.050663ms
+[grafana_show] 2019/10/12 17:36:24 grafana_show.go:54: get monit host time is 1.097973106s
+[grafana_show] 2019/10/12 17:36:24 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:36:24 grafana_show.go:58: inser db time is 45.929223ms
+[grafana_show] 2019/10/12 17:36:35 grafana_show.go:54: get monit host time is 1.111215812s
+[grafana_show] 2019/10/12 17:36:35 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:36:35 grafana_show.go:58: inser db time is 63.428507ms
+[grafana_show] 2019/10/12 17:36:46 grafana_show.go:54: get monit host time is 1.079906965s
+[grafana_show] 2019/10/12 17:36:47 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:36:47 grafana_show.go:58: inser db time is 216.289896ms
+[grafana_show] 2019/10/12 17:36:58 grafana_show.go:54: get monit host time is 1.06931106s
+[grafana_show] 2019/10/12 17:36:58 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:36:58 grafana_show.go:58: inser db time is 196.730855ms
+[grafana_show] 2019/10/12 17:37:09 grafana_show.go:54: get monit host time is 1.073441789s
+[grafana_show] 2019/10/12 17:37:09 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:37:09 grafana_show.go:58: inser db time is 181.624831ms
+[grafana_show] 2019/10/12 17:37:21 grafana_show.go:54: get monit host time is 1.091162898s
+[grafana_show] 2019/10/12 17:37:21 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:37:21 grafana_show.go:58: inser db time is 125.283623ms
+[grafana_show] 2019/10/12 17:37:32 grafana_show.go:54: get monit host time is 1.065507883s
+[grafana_show] 2019/10/12 17:37:33 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:37:33 grafana_show.go:58: inser db time is 357.316138ms
+[grafana_show] 2019/10/12 17:37:44 grafana_show.go:54: get monit host time is 1.066448786s
+[grafana_show] 2019/10/12 17:37:44 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:37:44 grafana_show.go:58: inser db time is 363.911432ms
+[grafana_show] 2019/10/12 17:37:55 grafana_show.go:54: get monit host time is 1.084712073s
+[grafana_show] 2019/10/12 17:37:56 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:37:56 grafana_show.go:58: inser db time is 212.873223ms
+[grafana_show] 2019/10/12 17:38:07 grafana_show.go:54: get monit host time is 1.074058637s
+[grafana_show] 2019/10/12 17:38:07 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:38:07 grafana_show.go:58: inser db time is 98.160742ms
+[grafana_show] 2019/10/12 17:38:18 grafana_show.go:54: get monit host time is 1.069653314s
+[grafana_show] 2019/10/12 17:38:19 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:38:19 grafana_show.go:58: inser db time is 145.218113ms
+[grafana_show] 2019/10/12 17:38:30 grafana_show.go:54: get monit host time is 1.061699415s
+[grafana_show] 2019/10/12 17:38:30 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:38:30 grafana_show.go:58: inser db time is 63.398442ms
+[grafana_show] 2019/10/12 17:38:41 grafana_show.go:54: get monit host time is 1.067052292s
+[grafana_show] 2019/10/12 17:38:42 insertTab.go:40: 写入了 18 行数据
+[grafana_show] 2019/10/12 17:38:42 grafana_show.go:58: inser db time is 118.796881ms
+[grafana_show] 2019/10/13 17:25:49 grafana_show.go:54: get monit host time is 1.577747685s
+[grafana_show] 2019/10/13 17:25:49 insertTab.go:40: 写入了 2404 行数据
+[grafana_show] 2019/10/13 17:25:49 grafana_show.go:58: inser db time is 459.219644ms
+[grafana_show] 2019/10/13 17:26:01 grafana_show.go:54: get monit host time is 1.58810622s
+[grafana_show] 2019/10/13 17:26:02 insertTab.go:40: 写入了 2434 行数据
+[grafana_show] 2019/10/13 17:26:02 grafana_show.go:58: inser db time is 854.9565ms
